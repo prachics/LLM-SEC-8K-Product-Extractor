@@ -48,7 +48,7 @@ From the 8-K filings published by public companies using SEC-provided data.
 
 | File                            | Description                             |
 |---------------------------------|-----------------------------------------|
-| `Ref_code.ipynb`               | Jupyter Notebook with full implementation |
+| `LLM_Document_Analysis.ipynb`               | Jupyter Notebook with full implementation |
 | `Filtered_SP500_8K_Filings.csv` | Final structured output in CSV format   |
 | `README.md`                    | Project documentation                   |
 
